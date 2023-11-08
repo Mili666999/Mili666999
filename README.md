@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Antonio
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning SQL & Java
-
+- 🌱 Finished Java course at Edunova, Osijek
+- 🌱 Currently learning HTML, CSS, JS, C#
 - 📫 milolozaantonio@yahoo.com
 
 <!---
